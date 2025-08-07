@@ -195,15 +195,7 @@ Java Developer Intern | Clean Code Enthusiast
 
 
 
----
 
-
-
-## 🪪 License
-
-
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
