@@ -59,28 +59,18 @@ Welcome to the **Library Management System** – a console-based Java applicatio
 
 
 ```
-
 Library-Management-System/
-
 ├── README.md
-
 ├── .gitignore
-
 └── src/
-
-├── Main.java
-
-├── model/
-
-│ ├── Book.java
-
-│ └── User.java
-
-└── service/
-
-└── Library.java
-
+    ├── Main.java
+    ├── model/
+    │   ├── Book.java
+    │   └── User.java
+    └── service/
+        └── Library.java
 ```
+
 
 
 
@@ -160,29 +150,18 @@ Enter Book Title: Clean Code
 
 ---
 
-
-
 ## 🔍 OOP Concepts Demonstrated
 
-
-
 | Concept         | Where It's Used                                       |
-
 |-----------------|--------------------------------------------------------|
-
 | Encapsulation   | Private fields with getters/setters in `Book`, `User` |
-
 | Inheritance     | Can be extended for `Librarian`, `Admin`, etc.        |
-
 | Abstraction     | `Library` exposes only relevant methods to main       |
-
-| Polymorphism    | Future enhancements can override behaviors             |
-
-| Composition     | Library **has-a** Book and **has-a** User              |
-
-
+| Polymorphism    | Future enhancements can override behaviors            |
+| Composition     | Library **has-a** Book and **has-a** User             |
 
 ---
+
 
 
 
